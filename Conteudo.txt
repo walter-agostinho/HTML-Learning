@@ -1,0 +1,24 @@
+TAGS
+    <head> = cabeçalho
+    <body> = corpo do texto
+    <p> = parágrafo
+    <h1> até <h6> = niveis de titulo de seção. h1 sendo o mais alto
+    <br> = pula a linha
+    
+    <a> = âncora, usado para link
+    PARÂMETROS
+        href = local do link
+        target = onde abrirá o link
+        rel = relacionado a que
+        media = para qual mídia
+
+    <abbr> = abreviação. Deixando mouse mostra o titulo
+    PARÂMETROS
+        title = titulo que será mostrado ao deixar o mouse
+
+
+
+
+Informação
+    display block = não permite elemento na mesma linha
+    display inline = permite outro elemento na mesma linha
