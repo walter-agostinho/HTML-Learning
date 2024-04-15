@@ -16,8 +16,22 @@ TAGS
     PARÂMETROS
         title = titulo que será mostrado ao deixar o mouse
 
+    <address> = informações de contato do autor
 
+    <map> = utilizado em conjunto com area. Pai de area. Serve para mapear area em uma imagem
+    PARÂMETROS
+        name
 
+    <area>
+    PARÂMETROS
+        alt = nome
+        shape = forma, ex poligono
+        href = referencia ao clickar
+        coords = coordenadas
+    
+    <article> = área ou seção idependente do documento
+
+    <aside> = representa uma seção da pagina tangencialmente relacionado ao conteudo do elemento aside
 
 Informação
     display block = não permite elemento na mesma linha
