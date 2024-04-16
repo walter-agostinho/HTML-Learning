@@ -33,6 +33,16 @@ TAGS
 
     <aside> = representa uma seção da pagina tangencialmente relacionado ao conteudo do elemento aside
 
+    <audio>
+        PARÂMETROS
+        autoplay = ja começa com audio
+        controls = exibe os controles do audio
+        muted = começa mudo
+        loop = reproduz audio novamente
+
+    <b>
+
+
 Informação
     display block = não permite elemento na mesma linha
     display inline = permite outro elemento na mesma linha
