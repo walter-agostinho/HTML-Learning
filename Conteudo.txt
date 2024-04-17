@@ -40,8 +40,19 @@ TAGS
         muted = começa mudo
         loop = reproduz audio novamente
 
-    <b>
+    <b> = texto em negrito
 
+    <base> = caminho base para os arquivos
+
+    <bdo> = inverte o texto
+        PARÂMETROS
+        dir = ltr = inverte o texto
+
+    <blockquote> = citação
+        PARÂMETROS
+        cite = link para conteudo externo
+
+    <cite> = referencia a obra e os autores
 
 Informação
     display block = não permite elemento na mesma linha
