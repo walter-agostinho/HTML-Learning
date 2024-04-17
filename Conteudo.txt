@@ -54,6 +54,29 @@ TAGS
 
     <cite> = referencia a obra e os autores
 
+    <br> = quebra de linha
+
+    <button> = botão para ações
+        PARÂMETROS
+        autofocus = foca quando pagina carregada
+        type = tipo do botão
+
+    <canvas> = renderizar imagens, usado para jogos
+
+    <code> = para destacar trecho de codigo
+
+    <pre> = bloco de texto pre formatado. Exibe exatamente como esta o texto
+
+    <del> = representa um conteudo excluido ou marcado para exclusao (texto fica riscado)
+        PARÂMETROS
+        cite = referência
+        datetime = data da exclusão
+
+    <ins> = representa uma inserção (texto fica sublinhado)
+        PARÂMETROS
+        cite = referência
+        datetime = data da inserção
+
 Informação
     display block = não permite elemento na mesma linha
     display inline = permite outro elemento na mesma linha
