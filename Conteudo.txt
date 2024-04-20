@@ -76,6 +76,33 @@ TAGS
         PARÂMETROS
         cite = referência
         datetime = data da inserção
+    
+    <details> = específica detalhes adicionais que podem ser abertos ou fechados
+
+    <summary> = específica o cabeçalho de details
+
+    <dfn> = definição. Quando tiver um termo com definição
+        PARÂMETROS
+        title = exibe quando deixa o mouse
+
+    <dialog> = caixa de dialogo
+    
+    <div> = container generico, organização dos elementos
+
+    <dl> = lista de nome valor
+
+    <dt> = chave do <dl>
+
+    <dd> = valor do <dt>
+
+    <em> = dar enfase
+
+    <embed> = geral para musica, video etc
+
+    <figure> marcar uma imagem dentro de um documento
+    <figcaption> legenda para a marcação
+
+    <footer> tag de seção para rodapé
 
 Informação
     display block = não permite elemento na mesma linha
