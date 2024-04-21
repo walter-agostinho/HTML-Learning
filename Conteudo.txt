@@ -99,11 +99,29 @@ TAGS
 
     <embed> = geral para musica, video etc
 
-    <figure> marcar uma imagem dentro de um documento
-    <figcaption> legenda para a marcação
+    <figure> = marcar uma imagem dentro de um documento
+    <figcaption> = legenda para a marcação
 
-    <footer> tag de seção para rodapé
+    <footer> = tag de seção para rodapé
 
+    <form> = tag de formulario
+        PARÂMETROS
+        action = url para receber os arquivos
+        autocomplete = autocompletar campos ativado
+        enctype = codificação dos dados enviados
+        method = metodo de envio de dados (get ou post)
+        name = nome do formulario
+        novalidade = desabilita a validação pelo browser
+        target = como a página destino (action) será aberta
+
+    <label> = legenda para o campo
+    <input> = campo podendo ser de vários tipos
+
+    <hr> = barra horizontal
+
+    <html> = define a estrutura da página e linguagem
+
+    <i> = destaque de prioridade baixa em itálico
 Informação
     display block = não permite elemento na mesma linha
     display inline = permite outro elemento na mesma linha
