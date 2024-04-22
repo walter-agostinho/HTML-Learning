@@ -122,6 +122,20 @@ TAGS
     <html> = define a estrutura da página e linguagem
 
     <i> = destaque de prioridade baixa em itálico
+
+    <img> = inserir imagem
+
+    <kbd> = tecla para referenciar atalho
+
+    <link> = vincular recursos externos a página 
+        PARÂMETROS
+        rel = icon, stylesheet
+        type = tipo do arquivo
+        sizes = tamanho para icone
+        href = caminho para o arquivo
+
+    <mark> = marcar o texto como se fosse marcatexto
+
 Informação
     display block = não permite elemento na mesma linha
     display inline = permite outro elemento na mesma linha
