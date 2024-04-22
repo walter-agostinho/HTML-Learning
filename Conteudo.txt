@@ -136,6 +136,28 @@ TAGS
 
     <mark> = marcar o texto como se fosse marcatexto
 
+    <meta> = informações e configurações de cabeçalho - metadados
+        PARÂMETROS
+        http-equiv
+        name
+        content
+        
+    <meter> = barra de medida
+
+    <nav> = set de navegação de links
+
+    <noscript> = alternativa para caso javascript não esteja disponível no browser
+
+    <object> = utilizado para inserir diversos tipos, audio, imagem, pdf, etc
+
+    <ol> = lista 
+    
+    <optgroup> = agrupar options dentro de um select
+    <output> = saída, geralmente usado em um form
+
+    <progress> = barra de progresso
+
+    <quote> = citação
 Informação
     display block = não permite elemento na mesma linha
     display inline = permite outro elemento na mesma linha
