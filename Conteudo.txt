@@ -158,6 +158,35 @@ TAGS
     <progress> = barra de progresso
 
     <quote> = citação
+    <ruby> e <rt> = utilizado para outras linguas como japonês e chinês (exibe conteudo e anotação)
+
+    <samp> = amostra de uma saida de um codigo
+
+    <section> = seção genérica
+
+    <small> = destaque atraves da diminuição do texto
+
+    <source> = fonte para as tags como audio, video etc
+
+    <spam> = utilizado para formatar determinada parte do texto
+
+    <strong> = destaque a uma parte do texto, deixa em negrito
+
+    <style> = tag para css
+
+    <table> = cotainer de tabela
+    <tr> = table row = linha
+    <td> = table division = celula
+        PARÂMETROS
+        colspan = mesclagem de colunas
+        rowspan = mesclagem de linhas
+    <th> = cabeçalho da tabela
+    <thead> = seção de titulo
+    <tbody> = corpo da tabela
+    <tfoot> = rodape da tabela
+
+    <sup> = superescreve, exemplo 1º
+    <sub> = subescreve, exemplo HoH
 Informação
     display block = não permite elemento na mesma linha
     display inline = permite outro elemento na mesma linha
